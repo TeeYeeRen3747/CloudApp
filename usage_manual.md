@@ -40,7 +40,7 @@ It is an application program that acquires user information and uses the informa
 
 3. Google Sheet  
 <div align="center"><img src="https://www.nicepng.com/png/detail/335-3352801_google-sheets-logo-google-sheets-logo-png.png" width=200></div>
-
+In this project, the MIT inventor was used to connect with Google Sheets to store and retrieve data. Google Sheets is a collaborative tool that allows for real-time collaborative modification of spreadsheets. Documents can be shared, opened, and modified by numerous users at the same time, and users can see character-by-character changes as other collaborators modify them. Changes are automatically saved to Google's servers, and a revision history is retained so that previous edits can be seen and reverted to.
 
 
 
