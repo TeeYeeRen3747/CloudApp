@@ -55,5 +55,5 @@ Step 3: User need to fill in the information such as email, password and the con
 
 Step 4: At the login page, user need to fill in their "Email" and "Password".
 
-Step 5: 
+Step 5: After login, it will show the Home Page, user can choose to calculate the BMI or key in the Blood Pressure information to store the check the status.
 
