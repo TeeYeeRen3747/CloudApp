@@ -39,7 +39,7 @@ MIT App Inventor is a network application integrated development environment. In
   
 2. BmiP Application  
 
-<div align="center"><img src="/image/logo.png" width=160></div>
+<div align="center"><img src="image/logo.png" width=160></div>
 It is an application program that acquires user information and uses the information to monitor the user's health, such as measuring the user's body mass index and blood pressure. After typing in the body mass index, it will let the user view a chart that records all users who use the application.  
 <br><br> 
 
@@ -54,7 +54,7 @@ In this project, the MIT inventor was used to connect with Google Sheets to stor
 
 ### Usage Manual ###
 Step 1: Firstly, download and install the project (.apk) file by scan QR codes. 
-<div align="center"><img src="/image/downloadApp.png" ></div>  
+<div align="center"><img src="image/downloadApp.png" ></div>  
 
 Step 2: After that will see the login page, the first time user need to go register page to register.
 
