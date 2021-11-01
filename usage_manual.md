@@ -59,9 +59,9 @@ Step 5: After login, it will show the Home Page, user can choose to calculate th
 
 Step 6: If the user choose BMI, user need to type the height and weight, then press the calculate button to calculate their BMI.
 
-Step 7: After press the calculate button, it will show the BMI result and status of the BMI, it also can click the button "View BMI Chart" to view the chart that records all users who use the application.
+Step 7: After pressing the calculate button, it will show the BMI result and status of the BMI, it also can click the button "View BMI Chart" to view the chart that records all users who use the application's BMI status percentage. 
 
-Step 8： 
+Step 8： If the user choose the Blood Pressure, user require to fill in the information Systolic (mmHg), Diastolic (mmHg) and Pulse (BPM), then click the button "Track Status".
 
 
 
