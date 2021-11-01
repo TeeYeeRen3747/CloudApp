@@ -17,3 +17,4 @@
 
 <div style="page-break-after: always;"></div>
 
+<p> Hi~~ Welcome to our Cloud Computing Assignment Mobile Application </p>
