@@ -28,7 +28,7 @@
 
 
 ### About of Project ###
-This project is using MIT App Inventor, Health Monitor App, and google sheet. This project call BmiP, it stands for tracke the BMI and the blood pressure.
+Hi~~ Welcome to our Cloud Computing Assignment Mobile ApplicationThis project is using MIT App Inventor, Health Monitor App, and google sheet. This project call BmiP, it stands for tracke the BMI and the blood pressure.
 1. MIT App Inventor  
 <div align="center"><img src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/blog/ai-bee-horiz.png" width=200></div>
 MIT App Inventor is a network application integrated development environment. In this project used MIT App Inventor to develop the BmiP Application.
@@ -46,8 +46,6 @@ In this project, the MIT inventor was used to connect with Google Sheets to stor
 
 <div style="page-break-after: always;"></div>
 
-
-<p> Hi~~ Welcome to our Cloud Computing Assignment Mobile Application </p>
-
-<p> Firstly, download/install the project (.aia) file, after that will see the register page, user need to register first as shown in figure below. </p>
+### Usage Manual ###
+Step 1: Firstly, download/install the project (.aia) file, after that will see the register page, user need to register first as shown in figure below.
 
