@@ -63,5 +63,5 @@ Step 7: After pressing the calculate button, it will show the BMI result and sta
 
 Step 8： If the user choose the Blood Pressure, user require to fill in the information Systolic (mmHg), Diastolic (mmHg) and Pulse (BPM), then click the button "Track Status".
 
-
+Step 9: This is the result of the track status for user's blood pressure. 
 
