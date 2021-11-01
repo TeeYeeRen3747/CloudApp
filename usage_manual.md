@@ -34,6 +34,7 @@ This project is using MIT App Inventor, Health Monitor App, and google sheet.
 
 2. Health Monitor App  
 <div align="center"><img src="" width=200></div>
+It is an application program that acquires user information and uses the information to monitor the user's health, such as measuring the user's body mass index and blood pressure. After typing in the body mass index, it will let the user view a chart that records all users who use the application.
 
 3. Google Sheet  
 <div align="center"><img src="https://www.nicepng.com/png/detail/335-3352801_google-sheets-logo-google-sheets-logo-png.png" width=200></div>
