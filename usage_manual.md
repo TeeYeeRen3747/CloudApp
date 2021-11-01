@@ -31,6 +31,8 @@
 This project is using MIT App Inventor, Health Monitor App, and google sheet.
 1. MIT App Inventor  
 <div align="center"><img src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/blog/ai-bee-horiz.png" width=200></div>
+MIT App Inventor is a network application integrated development environment.
+
 
 2. Health Monitor App  
 <div align="center"><img src="" width=200></div>
