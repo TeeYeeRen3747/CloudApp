@@ -65,3 +65,4 @@ Step 8： If the user choose the Blood Pressure, user require to fill in the inf
 
 Step 9: This is the result of the track status for user's blood pressure. 
 
+Step 10: While user click the "Sign Out" button, it will go to login page.
