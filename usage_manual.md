@@ -54,7 +54,8 @@ In this project, the MIT inventor was used to connect with Google Sheets to stor
 
 ### Usage Manual ###
 Step 1: Firstly, download and install the project (.apk) file by scan QR codes. 
-<div align="center"><img src="/image/downloadApp.png" ></div>
+<div align="center"><img src="/image/downloadApp.png" ></div>  
+
 Step 2: After that will see the login page, the first time user need to go register page to register.
 
 Step 3: User need to fill in the information such as email, password and the confirm password, the password needs to fill in at least 8 characters, if register successful, it will show that "Register Successful~".
