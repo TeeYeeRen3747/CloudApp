@@ -26,20 +26,20 @@
 
 <div style="page-break-after: always;"></div>
 
-# About of Project #
+
+### About of Project ###
 This project is using MIT App Inventor, Health Monitor App, and google sheet.
 1. MIT App Inventor  
-** image
-
+<div align="center"><img src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/blog/ai-bee-horiz.png" width=200></div>
 
 2. Health Monitor App  
-** image
-
+<div align="center"><img src="" width=200></div>
 
 3. Google Sheet  
-** image
+<div align="center"><img src="https://www.nicepng.com/png/detail/335-3352801_google-sheets-logo-google-sheets-logo-png.png" width=200></div>
 
 
+<div style="page-break-after: always;"></div>
 
 <p> Hi~~ Welcome to our Cloud Computing Assignment Mobile Application </p>
 
