@@ -34,16 +34,14 @@ This project is using MIT App Inventor, BmiP App, and google sheet. This project
 1. MIT App Inventor  
 <div align="center"><img src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/blog/ai-bee-horiz.png" width=200></div>
 MIT App Inventor is a network application integrated development environment. In this project used MIT App Inventor to develop the BmiP Application.  
-  <br>
+<br><br>
   
   
 2. BmiP Application  
 
-![BmiP Logo](/image/logo.png)
-
-
+<div align="center"><img src="/image/logo.png" width=160></div>
 It is an application program that acquires user information and uses the information to monitor the user's health, such as measuring the user's body mass index and blood pressure. After typing in the body mass index, it will let the user view a chart that records all users who use the application.  
-<br> 
+<br><br> 
 
 
 3. Google Sheet  
