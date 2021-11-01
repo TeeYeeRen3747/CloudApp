@@ -28,7 +28,9 @@
 
 
 ### About of Project ###
-Hi~~ Welcome to our Cloud Computing Assignment Mobile ApplicationThis project is using MIT App Inventor, Health Monitor App, and google sheet. This project call BmiP, it stands for tracke the BMI and the blood pressure.
+Hi~~ Welcome to BmiP App.  
+
+This project is using MIT App Inventor, BmiP App, and google sheet. This project call BmiP, it stands for calculate the BMI status and track the blood pressure.
 1. MIT App Inventor  
 <div align="center"><img src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/blog/ai-bee-horiz.png" width=200></div>
 MIT App Inventor is a network application integrated development environment. In this project used MIT App Inventor to develop the BmiP Application.
