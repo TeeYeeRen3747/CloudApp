@@ -15,8 +15,15 @@
 | 1171  | C  | ST  |
 </div>
 
+#Table of Content#
+
+
+
+
 <div style="page-break-after: always;"></div>
 
 <p> Hi~~ Welcome to our Cloud Computing Assignment Mobile Application </p>
 
 <p> Firstly, download/install the project (.aia) file, after that will see the register page, user need to register first as shown in figure below. </p>
+
+![](image.png)
