@@ -37,10 +37,11 @@ MIT App Inventor is a network application integrated development environment. In
   <br>
   
   
-2. BmiP Application
-<div align="center">![BmiP Logo](/image/logo.png)</div>
+2. BmiP Application  
 
-<div align="center"><img src="" width=200></div>
+![BmiP Logo](/image/logo.png)
+
+
 It is an application program that acquires user information and uses the information to monitor the user's health, such as measuring the user's body mass index and blood pressure. After typing in the body mass index, it will let the user view a chart that records all users who use the application.  
 <br> 
 
