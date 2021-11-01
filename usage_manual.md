@@ -51,7 +51,9 @@ Step 1: Firstly, download and install the project (.apk) file by scan QR codes.
 
 Step 2: After that will see the login page, the first time user need to go register page to register.
 
-Step 3: User need to fill in the information such as email, password and the confirm password, the password needs to fill in at least 8 characters.
+Step 3: User need to fill in the information such as email, password and the confirm password, the password needs to fill in at least 8 characters, if register successful, it will show that "Register Successful~".
 
-Step 4: 
+Step 4: At the login page, user need to fill in their "Email" and "Password".
+
+Step 5: 
 
