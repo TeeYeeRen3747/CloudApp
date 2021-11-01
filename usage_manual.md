@@ -1,5 +1,9 @@
 <div align="center">
 
+![MMU Logo](https://www.studymalaysiainfo.com/wp-content/uploads/2016/02/MMU-Logo.png)
+
+<br>    
+
 ### TCC3141 CLOUD COMPUTING ###
 ### TRIMESTER 1 2021/2022 ###
 ### Project Title: ###
