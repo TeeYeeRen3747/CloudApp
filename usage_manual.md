@@ -47,5 +47,11 @@ In this project, the MIT inventor was used to connect with Google Sheets to stor
 <div style="page-break-after: always;"></div>
 
 ### Usage Manual ###
-Step 1: Firstly, download/install the project (.aia) file, after that will see the register page, user need to register first as shown in figure below.
+Step 1: Firstly, download and install the project (.apk) file by scan QR codes. 
+
+Step 2: After that will see the login page, the first time user need to go register page to register.
+
+Step 3: User need to fill in the information such as email, password and the confirm password, the password needs to fill in at least 8 characters.
+
+Step 4: 
 
