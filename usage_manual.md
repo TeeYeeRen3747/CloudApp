@@ -48,4 +48,3 @@ It is an application program that acquires user information and uses the informa
 
 <p> Firstly, download/install the project (.aia) file, after that will see the register page, user need to register first as shown in figure below. </p>
 
-![](image.png)
