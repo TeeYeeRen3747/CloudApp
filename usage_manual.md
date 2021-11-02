@@ -58,7 +58,7 @@ Step 2: After that will see the login page, the first time user need to go regis
 <div align="center"><img src="./image/login.jpeg" ></div> 
 
 Step 3: User need to fill in the information such as email, password and the confirm password, the password needs to fill in at least 8 characters, if register successful, it will show that "Register Successful~".  
-<div align="center"><img src="./image/downloadApp.PNG" ></div> 
+<div align="center"><img src="./image/register after.jpeg" ></div> 
 
 Step 4: At the login page, user need to fill in their "Email" and "Password".  
 <div align="center"><img src="./image/downloadApp.PNG" ></div> 
