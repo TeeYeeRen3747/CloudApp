@@ -61,7 +61,7 @@ Step 3: User need to fill in the information such as email, password and the con
 <div align="center"><img src="./image/register after.jpeg" ></div> 
 
 Step 4: At the login page, user need to fill in their "Email" and "Password".  
-<div align="center"><img src="./image/downloadApp.PNG" ></div> 
+<div align="center"><img src="./image/loginafter.jpeg" ></div> 
 
 Step 5: After login, it will show the Home Page, user can choose to calculate the BMI or key in the Blood Pressure information to check the status.  
 <div align="center"><img src="./image/downloadApp.PNG" ></div> 
