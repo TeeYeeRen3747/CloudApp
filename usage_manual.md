@@ -80,4 +80,4 @@ Step 9: This is the result of the track status for user's blood pressure.
 <div align="center"><img src="./image/bloodPressureResult.jpeg" ></div> 
 
 Step 10: While user click the "Sign Out" button, it will go to login page.  
-<div align="center"><img src="./image/downloadApp.PNG" ></div> 
+<div align="center"><img src="./image/signOut.jpg" ></div> 
