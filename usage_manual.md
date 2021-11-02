@@ -74,13 +74,10 @@ Step 7: After pressing the calculate button, it will show the BMI result and sta
 <div align="center"><img src="./image/bmichart.jpeg" ></div> 
 
 Step 8： If the user choose the Blood Pressure, user require to fill in the information Systolic (mmHg), Diastolic (mmHg) and Pulse (BPM), then click the button "Track Status". 
-<div align="center"><img src="./image/bmichart.jpeg" ></div>  
-
-Step 9: Enter the blood pressure.  
 <div align="center"><img src="./image/bloodPressure.jpeg" ></div>  
 
-Step 10: This is the result of the track status for user's blood pressure.  
+Step 9: This is the result of the track status for user's blood pressure.  
 <div align="center"><img src="./image/bloodPressureResult.jpeg" ></div> 
 
-Step 11: While user click the "Sign Out" button, it will go to login page.  
+Step 10: While user click the "Sign Out" button, it will go to login page.  
 <div align="center"><img src="./image/downloadApp.PNG" ></div> 
