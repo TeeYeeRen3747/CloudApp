@@ -51,6 +51,8 @@ After we finalize the development stage of the app, we turn our role as a user t
 
 #### :paperclip: Step 6 : Documentation
 
+README.md and UsageManual.md are prepare in Github purposely for reader to understand this project and get to know how this app functions.
+
 ### :computer: Tools we used to implement the app
 
 #### 1. MIT App Inventor  
