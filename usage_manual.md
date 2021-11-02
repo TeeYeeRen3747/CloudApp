@@ -12,11 +12,12 @@
     
 | ID  | Name | Course |
 | ------------- | ------------- | ------------- |
-| 1171203747  | Tee Yee Ren  | ST  |
-| 1171203203  | Heng Xin Yun  | ST  |
-| 1171203743  | Seek Ciu Yung  | ST  |
-| 1171203635  | Looi Jyn Ee  | ST  |
-| 1171  | C  | ST  |
+| 1171203747  | TEE YEE REN  | ST  |
+| 1171203203  | HENG XIN YUN  | ST  |
+| 1171203743  | SEEK CIU YUNG  | ST  |
+| 1171203635  | LOOI JYN EE  | ST  |
+| 1171103752  | CHAN CHIA CHING  | ST  |
+    
     
 <br>
 
