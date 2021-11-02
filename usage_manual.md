@@ -6,7 +6,7 @@
 
 ### TCC3141 CLOUD COMPUTING ###
 ### TRIMESTER 1 2021/2022 ###
-### Project Title : Health Monitor App ###
+### Project Title : BmiP App ###
 
 <br>
     
