@@ -67,16 +67,20 @@ Step 5: After login, it will show the Home Page, user can choose to calculate th
 <div align="center"><img src="./image/homepage.jpeg" ></div> 
 
 Step 6: If the user choose BMI, user need to type the height and weight, then press the calculate button to calculate their BMI.  
-<div align="center"><img src="./image/downloadApp.PNG" ></div> 
+<div align="center"><img src="./image/bmi.jpeg" ></div> 
 
 Step 7: After pressing the calculate button, it will show the BMI result and status of the BMI, it also can click the button "View BMI Chart" to view the chart that records all users who use the application's BMI status percentage.  
-<div align="center"><img src="./image/downloadApp.PNG" ></div> 
+<div align="center"><img src="./image/bmiResult.jpeg" ></div>  
+<div align="center"><img src="./image/bmichart.jpeg" ></div> 
 
-Step 8： If the user choose the Blood Pressure, user require to fill in the information Systolic (mmHg), Diastolic (mmHg) and Pulse (BPM), then click the button "Track Status".  
-<div align="center"><img src="./image/downloadApp.PNG" ></div> 
+Step 8： If the user choose the Blood Pressure, user require to fill in the information Systolic (mmHg), Diastolic (mmHg) and Pulse (BPM), then click the button "Track Status". 
+<div align="center"><img src="./image/bmichart.jpeg" ></div>  
 
-Step 9: This is the result of the track status for user's blood pressure.  
-<div align="center"><img src="./image/downloadApp.PNG" ></div> 
+Step 9: Enter the blood pressure.  
+<div align="center"><img src="./image/bloodPressure.jpeg" ></div>  
 
-Step 10: While user click the "Sign Out" button, it will go to login page.  
+Step 10: This is the result of the track status for user's blood pressure.  
+<div align="center"><img src="./image/bloodPressureResult.jpeg" ></div> 
+
+Step 11: While user click the "Sign Out" button, it will go to login page.  
 <div align="center"><img src="./image/downloadApp.PNG" ></div> 
