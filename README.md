@@ -45,7 +45,20 @@ Based on the project guideline, all of our documentation related to this app mus
 
 #### :paperclip: Step 3 : Task distribution
 
-In order to achieve effective team cooperation, our leaders distribute tasks among each member equally. Table below shows each of the tasks handle by which member.
+In order to achieve effective team cooperation, our leaders distribute tasks among each member equally. Table below shows each of the tasks handle by which member. <br><br>
+
+<div align="center">
+ 
+| Member | Tasks |
+| ------------- | ------------- |
+| TEE YEE REN  | - Delivery tasks to all members <br> - Complete the additional feature (Track Blood Pressure) of the application <br> - Prepare READ.md|
+| HENG XIN YUN  | - Complete the development of login page and register page <br> - Contribute in helping other members on the development stage <br> - Prepare the usage manual|
+| SEEK CIU YUNG  | - Complete the development of home page <br> - Complete the enhancement of BMI function  <br> - Prepare the usage manual|
+| LOOI JYN EE  | - Complete the development of home page <br> - Complete the enhancement of BMI function  <br> - Prepare the usage manual|
+| CHAN CHIA CHING  | - Complete the development of BMI chart <br> - Prepare READ.md|
+
+</div>
+<br><br>
 
 #### :paperclip: Step 4 : Progress update
 
