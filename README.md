@@ -26,7 +26,13 @@
  ![Member4](https://img.shields.io/badge/Chan%20Chia%20Ching%201171103752-Member-yellow)
  
   </div>
- 
+  
+### :scroll: BmiP
+
+<div align="center"><img src="image/logo.png" width=160></div>
+Our application works as a program that acquires user information and uses the information to monitor the user's health, such as measuring the user's body mass index and tracking the status of user's blood pressure. A pie chart could be generated to show the user's BMI falls under which category once the user has completed their BMI measurement and the percentage of that particular category among all of the users of this application.
+<br><br>  
+
 ### :pushpin: How we implement the app 
 
 #### :paperclip: Step 1 : Understand the requirements of the project
@@ -59,7 +65,7 @@ README.md and UsageManual.md are prepare in Github purposely for reader to under
 
 MIT App Inventor is a network application integrated development environment. In this project we used MIT App Inventor to develop the BmiP Cloud Application.
 <div align="center"><img src="http://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/blog/ai-bee-horiz.png" width=200></div>
-App Inventor lets developers develop applications for Android phones using a web browser and either a connected phone or emulator. The App Inventor servers store developer's work and help them keep track of their projects.
+App Inventor allows developers to create Android applications using a web browser and either a connected phone or an emulator. The App Inventor servers save the work of developers and assist them in keeping track of their projects.
 
 <br> Developers build apps by working with:
 
@@ -67,10 +73,15 @@ App Inventor lets developers develop applications for Android phones using a web
 **:white_check_mark: The App Inventor Blocks Editor**, where developer assemble program blocks that specify how the components should behave. Developer can assemble programs visually, fitting pieces together like pieces of a puzzle. 
 <br> 
 
-The App Inventor development environment is supported for Mac OS X, GNU/Linux, and Windows operating systems, and several popular Android phone models. Applications created with App Inventor can be installed on any Android phone.
-*<br> <br> Before the developer can use App Inventor, they need to set up their computer and install the App Inventor Setup package on their computer.*
+The App Inventor development environment is compatible with the Mac OS X, GNU/Linux, and Windows operating systems, as well as a variety of popular Android phone types. App Inventor applications can be loaded on any Android phone.
+*<br> <br> Before the developer can use App Inventor, they must first configure their machine and install the App Inventor Setup package.*
 
-### :scroll: List of Middlewares
+#### 2. Google Sheet  
+
+<div align="center"><img src="https://www.nicepng.com/png/detail/335-3352801_google-sheets-logo-google-sheets-logo-png.png" width=200></div>
+The Google Sheet was used in this project to interact with MIT inventor to store and retrieve data. Google Sheets is a collaborative application that enables for real-time collaborative spreadsheet manipulation. Documents may be shared, accessed, and edited by several users concurrently, and users can see character-by-character changes while other collaborators amend them. Changes are automatically saved to Google's servers, and a revision history is kept so that prior adjustments may be seen and undone.
+
+
 ### :bulb: Technique applied on Github version control
 
 
