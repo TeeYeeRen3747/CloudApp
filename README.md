@@ -97,4 +97,6 @@ The Google Sheet was used in this project to interact with MIT inventor to store
 
 ### :bulb: Technique applied on Github version control
 
-
+- Members can choose to create sub-branches for some important parts of the development of applications. Once confirmed by the leader it will be merged into the main branch.
+- Any files pushed into the main branch will be named according to the sequence of the version. This helps all of us keep track of the version and makes it easier to modify the files.
+- Provide some description before we commit changes is highly recommended. This can ensure we know what the latest update is regarding.
