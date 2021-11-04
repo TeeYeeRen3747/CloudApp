@@ -1,6 +1,6 @@
 ### Usage Manual ###
-Step 1: Firstly, download and install the project (.apk) file by scan QR codes. 
-<div align="center"><img src="./image/downloadApp.PNG" width=400></div>  
+Step 1: First, download and install the application (.apk) file from our Github repository.
+
 
 Step 2: After that will see the login page, the first time user need to go register page to register.  
 <div align="center"><img src="./image/login.jpeg" width=300></div> 
